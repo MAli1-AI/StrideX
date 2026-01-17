@@ -23,3 +23,7 @@ script.js : Product and cart functionality
 /images : Optimized assets for product catalog
 
 Developed as part of the 1st Semester AICT Lab Terminal Project.
+
+🔗 Live Demo
+https://mali1-ai.github.io/StrideX-Ecommerce-Frontend/
+
