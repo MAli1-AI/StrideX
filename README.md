@@ -1,4 +1,4 @@
-StrideX | Dynamic Footwear E-commerce | Front-End
+StrideX | Dynamic Footwear E-commerce Website | Front-End
 
 StrideX is a high-performance, front-end e-commerce application developed as the Lab Terminal Project for the AICT course, Semester 1. It demonstrates modern web development practices and interactive client-side logic.
 
