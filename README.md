@@ -25,5 +25,5 @@ script.js : Product and cart functionality
 Developed as part of the 1st Semester AICT Lab Terminal Project.
 
 🔗 Live Demo
-https://mali1-ai.github.io/StrideX-Ecommerce-Frontend/
+https://mali1-ai.github.io/StrideX/
 
