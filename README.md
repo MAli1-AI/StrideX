@@ -27,16 +27,11 @@ A modern digital retail interface featuring a seamless user experience and vibra
 
 ---
 
-## 📝 Project Context
-
-Developed as part of the **1st Semester AICT Lab Terminal Project**, showcasing practical application of front-end web development principles.
-For questions or collaboration opportunities, feel free to reach out via GitHub or connect through professional channels.
-
----
-
 ## 🔗 Live Demo
 
-**Live Preview:** [mali1-ai.github.io/StrideX/]
+**Live Preview:** [ mali1-ai.github.io/StrideX/ ]
 Live Demo works best in desktop view.
+
+For questions or collaboration opportunities, feel free to reach out via GitHub or connect through professional channels.
 
 ---
